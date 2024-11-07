@@ -2,11 +2,14 @@
 Management app for Plan - Target - Log - Result - Feedback Lifecycle
 
 ## Suffixs
-  
-- 1 = 2hour
+
 - y = year
-- m = month
+- M = month
+- w = week
 - d = day
+- h = hour
+- m = minutes
+- s = seconds
 - p = plan
 - t = target
 - l = log
